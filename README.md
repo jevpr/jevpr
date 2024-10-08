@@ -1,7 +1,6 @@
 # About 👀
 My name is.. 
 I am currently... 
-*Pronouns*: She / Her
 
 ## Current Projects ✏️
 
